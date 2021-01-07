@@ -1,0 +1,152 @@
+.fa {
+    padding: 20px;
+    font-size: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 70%;
+    transition: 0.3s;
+  }
+  
+  .fa:hover {
+      background-color:#ffff;
+      color:#ef4f4f;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #ef4f4f;
+    color: white;
+  }
+  .fa-linkedin {
+    background: #ef4f4f;
+    color: white;
+  }
+  .fa-instagram {
+    background: #ef4f4f;
+    color: white;
+  }
+  .nav{
+      
+      position: fixed;
+      margin:auto;
+      width: 50%;
+      padding: 10px;
+      display:block;
+      left:60%;
+  }
+  .element{
+   
+  }
+  .top{
+      position: relative;
+      color: #ef4f4f;
+      margin: 0px;
+      display: inline-block;
+      text-align: center;
+  }
+  .line{
+    line-height: 0.5;
+  }
+  h1{
+      font-family: 'Amatic SC', cursive;
+      text-align: center;
+      font-size: 375%;
+     /* padding: 0 0 0 182px;*/
+  }
+  h2{
+    text-align: center;
+    width:100%;
+    margin-top: 30px;
+  }
+  p{
+      font-family: 'Montserrat', sans-serif;
+      text-align: center;
+      padding: 0px;
+      
+      
+  }
+  .img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        position: relative;
+        width:40%;
+        margin: 0 auto 0 auto;
+        box-align:center;
+        padding: 0 100px 0 100px;
+  }
+
+  body{    
+      margin: 20px;
+      text-align: center;
+      font-family: 'Merriweather', serif;
+  }
+.profile{
+    margin:20px auto 0 auto;
+    padding:50px 0 0 0;
+    margin:20px auto 20px auto;
+}
+.middle{
+  
+  margin:20px auto 20px auto;
+}
+h2, h3{
+  color: #ef4f4f;
+  margin:auto;
+  width: 50%;
+  font-family: 'Montserrat', sans-serif;
+}
+.skill{
+  width:25%;
+  height:200px;
+  position: absolute;
+  display: inline;
+  left:30px;
+  padding-top:60px;
+  
+
+}
+.skill-row{
+  width:50%;
+  margin:20px auto 20px auto;
+  line-height: 1.5;
+  font-family: 'Montserrat', sans-serif;
+}
+.bottom{
+  color: #ef4f4f;
+  font-family: 'Merriweather', serif;  
+  font-weight: bold;
+  width:50%;
+  margin:20px auto 20px auto;
+  line-height: 1.5;
+
+}
+.btn1,.btn2  {
+  background-color:#ef4f4f;
+  border: none;
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 18px;
+  border-radius: 5px;
+  margin:auto auto 30px auto;
+}
+
+/* Darker background on mouse-over */
+.btn1:hover,.btn2:hover {
+  background-color: rgb(250, 98, 98);
+}
+.download{
+  text-decoration: none;
+  color: white;
+}
+hr{
+  padding: 20px;
+  margin: 20px;
+  border:0px
+}
