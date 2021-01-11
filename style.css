@@ -149,3 +149,18 @@ hr{
   margin: 20px;
   border:0px
 }
+@media (max-width:629px) {
+  div.skill-row {
+    text-align:center !important;
+  }
+  div.middle {
+    text-align:center !important;
+  }
+  h3 {
+    height:70px;
+    width:140px;
+    text-align:center !important;
+    word-break: break-word;
+    padding:20px;
+  }
+}
