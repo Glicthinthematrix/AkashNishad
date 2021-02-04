@@ -117,3 +117,33 @@ h1{
         top: 440px;
         background:rgba(0,0,0,0.1);
       }
+     .image2{
+        display: none;
+      }
+      @media (max-width:629px) {
+        img.main-image{
+        display: relative;
+        max-width:150%;
+      }
+      img.main-image{
+        display: none;
+      }
+      img.image2{
+        display: block;
+        position: relative;
+        right:170px;
+        width:210%;
+        bottom:5px;
+      }
+       h1{
+         font-size: 150%;
+       }
+       h4{
+        font-size: 70%;
+      }
+      a.fa{
+        width:10px;
+        padding:0px;
+        margin:10px;
+      }
+      }
