@@ -41,6 +41,10 @@
     background: #ef4f4f;
     color: white;
   }
+  .fa-rss {
+  background:  #ef4f4f;
+  color: white;
+}
   .nav{ 
       position: fixed;
       margin:auto;
